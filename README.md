@@ -5,3 +5,11 @@ Neste repositório estão guardados os projetos web realizados como forma de tre
 **Lista de projetos**
 
 - Primeira página HTML
+
+  Minha primeira página desenvolvida em HTML com o intuito de ter o meu momento "Hello World!".
+
+  
+
+- freeCodeCamp
+
+  Projetos realizados para finalização do curso Responsive Web Design do freeCodeCamp.
