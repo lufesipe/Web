@@ -1,0 +1,36 @@
+[33mcommit 54889d2149b99446395a558f2b4365819067fb6c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: lufesipe <luizfspereira@outlook.com>
+Date:   Thu Oct 1 21:54:27 2020 -0300
+
+    Alteração de diretorio do arquivo README
+
+[33mcommit 04680bfb5bf10a08e8109a07428397a32baf11ff[m
+Merge: 0886a45 e313690
+Author: lufesipe <luizfspereira@outlook.com>
+Date:   Thu Oct 1 21:51:09 2020 -0300
+
+    Merge branch 'master' of https://github.com/lufesipe/Web into master
+
+[33mcommit 0886a458264d8f01e3d113f7fc60ebc74c0abc30[m
+Author: lufesipe <luizfspereira@outlook.com>
+Date:   Thu Oct 1 21:49:12 2020 -0300
+
+    Reorganização da pasta
+
+[33mcommit e313690c86ce7fbb75079e442f0b48fa74c1f180[m
+Author: lufesipe <luizfspereira@outlook.com>
+Date:   Thu Oct 1 21:45:18 2020 -0300
+
+    Melhor organização da pasta do site
+
+[33mcommit f4dc811cb489f9d0405c6c6dfdbc1998adf776ed[m
+Author: lufesipe <luizfspereira@outlook.com>
+Date:   Thu Oct 1 19:11:53 2020 -0300
+
+    Criação do arquivo README.md
+
+[33mcommit 21fdb655ae7b1cf951f7dfd8c46aed78f2a10fcd[m
+Author: lufesipe <luizfspereira@outlook.com>
+Date:   Thu Oct 1 18:58:36 2020 -0300
+
+    Primeira pagina usando HTML e CSS no arquivo index.html
