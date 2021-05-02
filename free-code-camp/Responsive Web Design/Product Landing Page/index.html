@@ -1,0 +1,101 @@
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>deliBEERy: Landing Page</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body translate="no">
+        <header id="header">
+            <div class="logo">
+            <img id="header-img" src="https://i.pinimg.com/236x/85/82/d5/8582d50ff67a88f064fb3eb2aec4f37f.jpg" alt=" oficial delibeery logo">
+            </div>
+            <nav id="nav-bar">
+                <ul>
+                    <li><a class="nav-link" href="#about-us">About us</a></li>
+                    <li><a class="nav-link" href="#products">Products</a></li>
+                    <li><a class="nav-link" href="#drink-better">Drink better</a></li>
+                </ul>
+            </nav>
+        </header>
+        <section id="title">
+            <h1> deliBEERy</h1>
+            <p>Your beer at home</p>
+            <form id="form" action="https://www.freecodecamp.com/email-submit">
+                <input
+                type="email"
+                name="email"
+                id="email"
+                class="form-control"
+                placeholder="Enter your email address"
+                required/>
+                <input type="submit" id="submit" value="Subscribe" class="btn"/>
+            </form>
+        </section>
+        <div id="container">
+            <section id="about-us">
+                <h2>About us</h2>
+                <div class="grid">
+                    <div class="desc">
+                        <h3>Whatever you want</h3>
+                        <p>Don't matter what you want, we have!</p>
+                    </div>
+                </div>
+                <div class="grid">
+                    <div class="desc">
+                        <h3>Wherever you want</h3>
+                        <p>Don't matter where you are, we deliver!</p>
+                    </div>
+                </div>
+                <div class="grid">
+                    <div class="desc">
+                        <h3>Whenever you want</h3>
+                        <p>Don't matter when you want. You will have your beer!</p>
+                    </div>
+                </div>
+            </section>
+            <section id="products">
+                <h2>Products</h2>
+                <div id="items">
+                <div class="item" id="petra">
+                    <div class="level">Petra 350mL</div>
+                    <img id="petra-img" src="https://muffatosupermercados.vteximg.com.br/arquivos/ids/258950-1000-1000/7897395099329.jpg?v=637127241430430000" alt="petra can picture">
+                    <h3>R$2,79/each</h3>
+                    <button class="buy-btn">Select</button>
+                </div>
+                <div class="item" id="heineken">
+                    <div class="level">Heineken 330mL</div>
+                    <img id="heineken-img" src="https://static.carrefour.com.br/medias/sys_master/images/images/h7e/h6b/h00/h00/13247487410206.jpg" alt="heineken bottle picture">
+                    <h3>R$3,69/each</h3>
+                    <button class="buy-btn">Select</button>
+                </div>
+                <div class="item" id="budweiser">
+                    <div class="level">Budweiser 330mL</div>
+                    <img id="budweiser-img" src="https://emporiodacerveja.vtexassets.com/arquivos/ids/174968-800-auto?width=800&height=auto&aspect=true" alt="budweiser bottle picture">
+                    <h3>R$3,69/each</h3>
+                    <button class="buy-btn">Select</button>
+                </div>
+                </div>
+            </section>
+            <section id="drink-better">
+                <h2>Drink Better</h2>
+                <iframe 
+                id="video"
+                width="560" 
+                height="315" 
+                src="https://www.youtube.com/embed/2B_Wc3ktFJs" 
+                frameborder="0" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                allowfullscreen>
+                </iframe>
+            </section>
+            <footer>
+                <ul>
+                  <li><a class="footer-info" href="#">Privacy</a></li>
+                  <li><a class="footer-info" href="#">Terms</a></li>
+                  <li><a class="footer-info" href="#">Contact</a></li>
+                </ul>
+                <span>Copyright 2020, deliBEERy</span>
+            </footer>
+        </div>
+    </body>
+</html>
